@@ -15,4 +15,4 @@
 
 Добавить сенсерное касание на телефон
 
-![Скриншот](https://github.com/Neremeev/image/raw/master/img/flappy.png)
+![Скриншот](https://github.com/Neremeev/Source/blob/master/gif/flapy-gif.gif)
